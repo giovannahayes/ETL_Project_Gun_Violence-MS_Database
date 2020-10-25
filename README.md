@@ -1,6 +1,8 @@
 # ETL_Project_Gun_Violence-MS_Database
 
-##Group 2: Pooja Patel, Alicia Smith, Giovanna Hayes
+## Group 2: Pooja Patel, Alicia Smith, Giovanna Hayes
+
+![Image of gun](https://github.com/giovannahayes/Web-Design-Challenge/blob/main/Images/Index.PNG)
 
 ## Purpose
 #### Is there a correlation between gun violence, the cities where it occurs and the demographics within those locations? Also, does the current political leader of those cities influence these potential correlations? 
